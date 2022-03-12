@@ -10,11 +10,6 @@ I will be posting every day a concept, clarifications, or notes on Python and Pa
 
 The Python foundations are: 
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
 * Python 1: Introducing Anaconda, Jupyter Notebook, Magic commands, shortcuts
 * Python 2: Introduction to Python - Data Structures for Data Science
 Python 3: Conditional Expressions
