@@ -6,7 +6,7 @@ However, it is not complete unless we understand the foundations of python also.
 
 So here is an attempt. 
 
-I will be posting every day a concept, clarifications, or notes on Python and Pandas until it covers the following foundations and all things about Pandas.
+I will be posting every day a concept, clarifications, or notes on Python and Pandas until it covers the all essential foundations and Pandas.
 
 The Python foundations are: 
 
@@ -61,8 +61,8 @@ And, so it is easier to own it and above all remember them.
 
 Welcome to this topic!
 
-* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  
-* Presentation 2 - https://www.youtube.com/watch?v=WIJHvm6qS34
-* Presentation 3 - https://www.youtube.com/watch?v=EIwfbd3RuDg 
+* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  (Original Date: 10 Mar, 2022)
+* Presentation 2 - https://www.youtube.com/watch?v=WIJHvm6qS34  (Original Date: 11 Mar, 2022)
+* Presentation 3 - https://www.youtube.com/watch?v=EIwfbd3RuDg  (Original Date: 12 Mar, 2022)
 
 I will be adding jupyter notebook later. 
