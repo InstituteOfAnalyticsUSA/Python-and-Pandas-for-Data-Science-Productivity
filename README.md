@@ -56,7 +56,8 @@ And, so it is easier to own it and above all remember them.
 
 Welcome to this topic!
 
-* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  (The Jupyter notebook is: 
+* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  
 * Presentation 2 - https://www.youtube.com/watch?v=WIJHvm6qS34
 * Presentation 3 - https://www.youtube.com/watch?v=EIwfbd3RuDg 
 
+I will be adding jupyter notebook later. 
