@@ -54,6 +54,11 @@ And, so it is easier to own it and above all remember them.
 * Pandas #15 - Merging or Concatenating DataFrames
 * Pandas #16 - DataFrame GroupBy explained with examples
 
+* Pandas #17 - Database connectivity
+* Pandas #18 - SQL in Pandas and DB
+* Pandas #19 - NoSQL in Pandas and DB
+* Pandas #20 - Visualization matplotlib, ggplot2, seaborn
+
 Welcome to this topic!
 
 * Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  
