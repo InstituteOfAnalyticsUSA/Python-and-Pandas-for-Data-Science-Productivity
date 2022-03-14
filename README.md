@@ -61,8 +61,11 @@ And, so it is easier to own it and above all remember them.
 
 Welcome to this topic!
 
-* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc  (Original Date: 10 Mar, 2022)
-* Presentation 2 - https://www.youtube.com/watch?v=WIJHvm6qS34  (Original Date: 11 Mar, 2022)
-* Presentation 3 - https://www.youtube.com/watch?v=EIwfbd3RuDg  (Original Date: 12 Mar, 2022)
+* Presentation 1 - https://www.youtube.com/watch?v=iSyPAagTsQc - Introducing Jupyter Notebook and Tricks (Original Date: 10 Mar, 2022)
+* Presentation 2 - https://www.youtube.com/watch?v=WIJHvm6qS34 - Lists  (Original Date: 11 Mar, 2022)
+* Presentation 3 - https://www.youtube.com/watch?v=EIwfbd3RuDg - Computing functions inside a list (Original Date: 12 Mar, 2022)
+* Presentation 4 - https://youtu.be/GLVC3HonfPs                - Tuples and Computing functions inside a tuple (Original Date: 13 Mar, 2022)
+* Presentation 5 - ............................................- Dictionary and Computing functions inside a dictionary (Original Date: 14 Mar 2022)
+
 
 I will be adding jupyter notebook later. 
