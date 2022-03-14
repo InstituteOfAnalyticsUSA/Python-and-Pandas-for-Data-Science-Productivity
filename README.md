@@ -68,4 +68,4 @@ Welcome to this topic!
 * Presentation 5 - ............................................- Dictionary and Computing functions inside a dictionary (Original Date: 14 Mar 2022)
 
 
-I will be adding jupyter notebook later. 
+I will be adding corresponding jupyter notebooks later. 
