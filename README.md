@@ -71,6 +71,8 @@ Welcome to this topic!
   Tuples and Computing functions inside a tuple (Original Date: 13 Mar, 2022)
 * Presentation 5 - https://youtu.be/vleoDdxTVSE
   Iterable, Iterator, Generator, Generator functions (Original Date: 14 Mar 2022)
+* Presentation 6 - https://youtu.be/a-1GPeCcqI4 (Original Date: 15 Mar 2022)
+  Strings - Foundations for Text analysis
 
 
 I will be adding corresponding jupyter notebooks later. 
