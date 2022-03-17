@@ -74,6 +74,8 @@ Welcome to this topic!
 * Presentation 6 - https://youtu.be/a-1GPeCcqI4 
   Strings - Foundations for Text analysis (Original Date: 15 Mar 2022)
 * Presentation 7 - https://youtu.be/SpMnjwgAPvA
-  Sets - Acts like a basket of items; no indexing(as in list/tuple) or name/key (dictionary)
+  Sets - Acts like a basket of items; no indexing(as in list/tuple) or name/key as in (dictionary)
+* Presentation 8 - https://youtu.be/Gc9AY2IxSf8
+  Dictionary - key-value pair, so the identifier is going with the value always
 
 I will be adding corresponding jupyter notebooks later. 
