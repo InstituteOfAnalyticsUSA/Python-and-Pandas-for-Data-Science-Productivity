@@ -73,6 +73,7 @@ Welcome to this topic!
   Iterable, Iterator, Generator, Generator functions (Original Date: 14 Mar 2022)
 * Presentation 6 - https://youtu.be/a-1GPeCcqI4 
   Strings - Foundations for Text analysis (Original Date: 15 Mar 2022)
-
+* Presentation 7 - https://youtu.be/SpMnjwgAPvA
+  Sets - Acts like a basket of items; no indexing(as in list/tuple) or name/key (dictionary)
 
 I will be adding corresponding jupyter notebooks later. 
