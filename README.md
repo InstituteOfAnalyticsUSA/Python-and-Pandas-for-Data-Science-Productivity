@@ -77,5 +77,7 @@ Welcome to this topic!
   Sets - Acts like a basket of items; no indexing(as in list/tuple) or name/key as in (dictionary)
 * Presentation 8 - https://youtu.be/Gc9AY2IxSf8
   Dictionary - key-value pair, so the identifier is going with the value always
+* Presentation 9 - https://youtu.be/uVgFw88ndts
+  D9 - Python and Pandas for Data Science Productivity - L9 - stack vs  queue
 
 I will be adding corresponding jupyter notebooks later. 
