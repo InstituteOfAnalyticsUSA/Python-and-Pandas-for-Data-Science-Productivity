@@ -1,7 +1,7 @@
 # Python-and-Pandas-for-Data-Science-Productivity
 Though Pandas is the reason I started, I realized, it is important to introduce Python properly to appreciate the full collection of concepts and computational thinking
 
-My purpose is to have a reposity where Python and Pandas for Data Science Productivity are focussed.  It should be easier to connect to data science ideas and Pandas is great for that.
+My purpose is to have a repository where Python and Pandas for Data Science Productivity are focussed.  It should be easier to connect to data science ideas and Pandas is great for that.
 However, it is not complete unless we understand the foundations of python also. 
 
 So here is an attempt. 
