@@ -79,5 +79,6 @@ Welcome to this topic!
   Dictionary - key-value pair, so the identifier is going with the value always
 * Presentation 9 - https://youtu.be/uVgFw88ndts
   D9 - Python and Pandas for Data Science Productivity - L9 - stack vs  queue
-
+* Presentation 10 - https://youtu.be/2iRTzcU3YMI
+  D10 - Python and Pandas for Data Science Productivity - L10 - Stack vs. queue - Part 2
 I will be adding corresponding jupyter notebooks later. 
