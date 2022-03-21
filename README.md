@@ -81,5 +81,7 @@ Welcome to this topic!
   D9 - Python and Pandas for Data Science Productivity - L9 - stack vs  queue
 * Presentation 10 - https://youtu.be/2iRTzcU3YMI
   D10 - Python and Pandas for Data Science Productivity - L10 - Stack vs. queue - Part 2
-I will be adding corresponding jupyter notebooks later. 
-  D11 - Python and Pandas for Data Science Productivity - L11 - deque
+* D11 - Presentation 11 - https://youtu.be/H-I0BalZUeE
+  Python and Pandas for Data Science Productivity - L11 - deque
+
+I WILL BE ADDING JUPYTER NOTEBOOKS LATER
