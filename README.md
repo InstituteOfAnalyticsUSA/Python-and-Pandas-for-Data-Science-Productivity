@@ -83,5 +83,10 @@ Welcome to this topic!
   D10 - Python and Pandas for Data Science Productivity - L10 - Stack vs. queue - Part 2
 * D11 - Presentation 11 - https://youtu.be/H-I0BalZUeE
   Python and Pandas for Data Science Productivity - L11 - deque
+* D12 - Presentation 12 - https://www.youtube.com/watch?v=CCAU4YGFjFU
+  Python and Pandas for Data Science Productivity - L12 - Counter 
+* D13 - Presentation 13 - https://youtu.be/8haMEJK-Xlc 
+  Python and Pandas for Data Science Productivity - L13 - ChainMap
+  
 
 I WILL BE ADDING JUPYTER NOTEBOOKS LATER
